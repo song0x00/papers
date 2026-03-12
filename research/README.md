@@ -1,20 +1,14 @@
 # research/
 
-Original security research — published work and preprints. This is the long-form, citeable stuff.
+Original security research by me. Each piece of research will have its own subdirectory, references to where they have been published, and references.
 
----
 
 ## Subdirectories
 
 ### [`published/`](./published/)
-Formally published papers. Each should include a copy of the paper (PDF or markdown) and a reference to where it was published (journal, conference, preprint server, etc.).
+Formally published papers.
 
 ### [`preprints/`](./preprints/)
-Work that's been written up and shared but not yet formally peer-reviewed or published. Treat these as public drafts — complete enough to share, but potentially subject to revision.
+Work that's been written up and shared but not yet formally peer-reviewed or published.
 
 ---
-
-## Notes
-
-- Where possible, include an abstract or summary at the top of each paper folder in a `README.md`
-- If a paper has associated code, tooling, or datasets, link or include them alongside the paper

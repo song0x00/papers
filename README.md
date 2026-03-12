@@ -2,7 +2,7 @@
 
 A personal repository of cybersecurity research, CTF writeups, whitepapers, and study notes. This covers work done across CTF sites, bug bounty hunting, and independent research, as well as personal notes accumulated while studying for certifications.
 
-> **Note on CTFs:** Writeups here are for **retired/disclosed machines only**, in line with HTB and THM community guidelines. Active machine writeups are kept in a separate private repo.
+> **Note on CTFs:** Writeups here are for **retired/disclosed machines only**, in line with HTB and THM community guidelines.
 
 ---
 
